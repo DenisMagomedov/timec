@@ -19,7 +19,7 @@ public class calcServlet extends HttpServlet {
         System.out.println("GETTT1");
         req.setAttribute("otvet", "0");
 
-        req.getRequestDispatcher("calc.jsp").forward(req, resp);
+        req.getRequestDispatcher("/calc.jsp").forward(req, resp);
     }
 
     @Override
