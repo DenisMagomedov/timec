@@ -10,6 +10,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>calc</servlet-name>
-        <url-pattern>/enigmatic-tundra-28890.herokuapp.com/</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
 </web-app>
